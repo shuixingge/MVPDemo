@@ -1,3 +1,4 @@
 # MVPDemo
-#####一个采用MVP模式,RxJava,Retrofit的学习Demo
-(!图片)[https://raw.githubusercontent.com/shuixingge/MVPDemo/master/pic/pic.jpg]
+###简介
+一个采用MVP模式,RxJava,Retrofit的学习Demo
+<img src="https://raw.githubusercontent.com/shuixingge/MVPDemo/master/pic/pic.jpg" width = "280" height = "460"/>
