@@ -10,7 +10,7 @@ Dependencies
 ------
 [RxJava](https://github.com/ReactiveX/RxJava)
 
-[Retrofit]https://github.com/square/retrofit
+[Retrofit](https://github.com/square/retrofit)
 
 [Picasso](https://github.com/square/picasso)
 
